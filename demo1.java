@@ -5,7 +5,7 @@ public class demo1 {
 		System.out.println("hello form Git 3");
 		System.out.println("hello form Git 4");
 		System.out.println("hello form Git 5");
-		System.out.println("hello form Git 6");
+		System.out.println("new commit");
 	}	
 
 	}
