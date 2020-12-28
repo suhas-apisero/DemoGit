@@ -2,7 +2,7 @@ public class matrix {
 
 	public static void main(String[] args) {
 		int matrix1[][] = {
-				{1,152,113,94},
+				{1,2,3,4},
 				{55,66,7,8},
 				{9,10,11,12}
 		};
